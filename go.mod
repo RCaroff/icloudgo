@@ -1,6 +1,6 @@
 module github.com/chyroc/icloudgo
 
-go 1.18
+go 1.22
 
 require (
 	github.com/chyroc/gorequests v0.33.0
