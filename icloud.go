@@ -1,7 +1,7 @@
 package icloudgo
 
 import (
-	"github.com/chyroc/icloudgo/internal"
+	"github.com/RCaroff/icloudgo/internal"
 )
 
 func New(option *ClientOption) (*Client, error) {

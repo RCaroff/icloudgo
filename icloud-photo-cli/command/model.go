@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/chyroc/icloudgo"
+	"github.com/RCaroff/icloudgo"
 	"github.com/dgraph-io/badger/v3"
 )
 

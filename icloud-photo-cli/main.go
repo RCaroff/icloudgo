@@ -6,7 +6,7 @@ import (
 
 	"github.com/urfave/cli/v2"
 
-	"github.com/chyroc/icloudgo/icloud-photo-cli/command"
+	"github.com/RCaroff/icloudgo/icloud-photo-cli/command"
 )
 
 func main() {

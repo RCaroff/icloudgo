@@ -4,7 +4,6 @@ go 1.22
 
 require (
 	github.com/chyroc/gorequests v0.33.0
-	github.com/chyroc/icloudgo v0.21.1
 	github.com/dgraph-io/badger/v3 v3.2103.5
 	github.com/satori/go.uuid v1.2.0
 	github.com/urfave/cli/v2 v2.27.0

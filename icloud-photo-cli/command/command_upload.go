@@ -5,11 +5,11 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/chyroc/icloudgo/internal"
+	"github.com/RCaroff/icloudgo/internal"
 
 	"github.com/urfave/cli/v2"
 
-	"github.com/chyroc/icloudgo"
+	"github.com/RCaroff/icloudgo"
 )
 
 func NewUploadFlag() []cli.Flag {

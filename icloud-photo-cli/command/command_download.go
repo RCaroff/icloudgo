@@ -11,8 +11,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/chyroc/icloudgo"
-	"github.com/chyroc/icloudgo/internal"
+	"github.com/RCaroff/icloudgo"
+	"github.com/RCaroff/icloudgo/internal"
 	"github.com/dgraph-io/badger/v3"
 	"github.com/urfave/cli/v2"
 )
